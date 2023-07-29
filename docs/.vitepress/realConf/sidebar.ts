@@ -5,7 +5,7 @@ export const sidebar: DefaultTheme.Sidebar = {
 	'/knowledge/Verbal/': [
 		// 第一部分
 		{
-			text: '第一',
+			text: '中心理解',
 			items: [
 				{
 					text: '知识点1',
@@ -19,7 +19,7 @@ export const sidebar: DefaultTheme.Sidebar = {
 		},
 		// 第二部分
 		{
-			text: '第二',
+			text: '成语积累',
 			items: [
 				{
 					text: '知识点3',
