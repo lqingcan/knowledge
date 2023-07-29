@@ -1,7 +1,7 @@
 // docs/.vitepress/relaConf/navbar.ts
 import { DefaultTheme } from 'vitepress'
 export const sidebar: DefaultTheme.Sidebar = {
-	// /column/Algothm/表示对这个文件夹下的所有md文件做侧边栏配置
+	// /knowledge/Verbal/表示对这个文件夹下的所有md文件做侧边栏配置
 	'/knowledge/Verbal/': [
 		// 第一部分
 		{

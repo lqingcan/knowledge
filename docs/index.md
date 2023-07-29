@@ -20,10 +20,10 @@ hero:
     actions:
     - theme: brand
       text: 行测汇总
-      link: /column/views/guide
+      link: /knowledge/Verbal/
     - theme: alt
       text: 申论汇总
-      link: /column/Growing/
+      link: /knowledge/Verbal/
 # 按钮下方的描述
 features:
   - icon: 🤹♀️

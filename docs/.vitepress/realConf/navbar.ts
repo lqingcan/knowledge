@@ -10,19 +10,19 @@ export const nav: DefaultTheme.NavItem[] = [
 		items: [
 			{
 				text: '言语理解',
-				link: '/knowledge/Verbal/', // 表示docs/column/Travel/index.md
+				link: '/knowledge/Verbal/', //
 			},
 			{
 				text: '数量关系',
-				link: '/knowledge/Quantitative/', // 表示docs/column/Growing/index.md
+				link: '/knowledge/Quantitative/',
 			},
 			{
 				text: '判断推理',
-				link: '/knowledge/Logical/', // 表示docs/column/Travel/index.md
+				link: '/knowledge/Logical/', //
 			},
 			{
 				text: '资料分析',
-				link: '/knowledge/Data-Analysis/', // 表示docs/column/Growing/index.md
+				link: '/knowledge/Data-Analysis/',
 			},
 		],
 	},
