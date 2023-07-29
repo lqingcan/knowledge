@@ -9,6 +9,10 @@ export const nav: DefaultTheme.NavItem[] = [
 		text: '行测理论',
 		items: [
 			{
+				text: '介绍',
+				link: '/knowledge/', //
+			},
+			{
 				text: '言语理解',
 				link: '/knowledge/Verbal/', //
 			},
