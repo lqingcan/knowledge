@@ -12,10 +12,10 @@ title: 考公知识库 - 行测各科知识点全覆盖
 
 ### 快速导航
 
-- [言语理解](/knowledge/verbal/)
-- [数量关系](/knowledge/quantitative/)
-- [判断推理](/knowledge/logical/)
-- [资料分析](/knowledge/data-analysis/)
+- [言语理解](/knowledge/Verbal/)
+- [数量关系](/knowledge/Quantitative/)
+- [判断推理](/knowledge/Logical/)
+- [资料分析](/knowledge/Data-Analysis/)
 
 ## 解答技巧与习题
 
