@@ -17,8 +17,5 @@
         "@algolia/client-search"
       ]
     }
-  },
-  "dependencies": {
-    "@giscus/vue": "^2.3.0"
   }
 }
