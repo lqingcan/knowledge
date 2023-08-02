@@ -5,22 +5,16 @@ export const sidebar: DefaultTheme.Sidebar = {
 	'/knowledge/Verbal/': [
 		// 第一部分
 		{
-			text: '中心理解',
+			text: '言语理解',
 			items: [
 				{
-					text: '知识点1',
-					link: '/knowledge/Verbal/1',
+					text: '高频成语',
+					link: '/knowledge/Verbal/高频成语',
 				},
 				{
 					text: '知识点2',
 					link: '/knowledge/Verbal/2',
 				},
-			],
-		},
-		// 第二部分
-		{
-			text: '成语积累',
-			items: [
 				{
 					text: '知识点3',
 					link: '/knowledge/Verbal/3',

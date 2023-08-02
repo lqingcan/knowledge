@@ -20,7 +20,7 @@ hero:
     actions:
     - theme: brand
       text: 行测汇总
-      link: /knowledge/Verbal/
+      link: /knowledge/
     - theme: alt
       text: 申论汇总
       link: /knowledge/Verbal/
