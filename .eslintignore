@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+uni_modules
+src/utils
+main.js

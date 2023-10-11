@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "融合中台",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/debug/index",
+      "style": {
+        "navigationBarTitleText": "融合中台-调试",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#0085D0",
+    "backgroundColor": "#F8F8F8",
+    "app-plus": {
+      "background": "#efeff4"
+    },
+    "h5": {}
+  }
+}
